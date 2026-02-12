@@ -1,0 +1,34 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "instructionsTitle": "Examination Instructions",
+  "generalInstructions": "Please read the following instructions carefully before starting the examination.",
+  "timeManagementTitle": "Time Management",
+  "timeManagementPoints": [
+    "The total duration of the examination is fixed and will not be extended under any circumstances.",
+    "A timer will be displayed on the screen showing the remaining time.",
+    "The exam will be automatically submitted once the time is over."
+  ],
+  "examRulesTitle": "Important Instructions",
+  "examRulesPoints": [
+    "Each question has only one correct answer.",
+    "Do not refresh the page or press the back button during the exam.",
+    "Any attempt to open another tab or application may lead to disqualification.",
+    "Ensure a stable internet connection throughout the exam.",
+    "Your responses will be saved automatically."
+  ],
+  "cbtFeaturesTitle": "CBT Key Features",
+  "cbtFeaturesPoints": [
+    "User-friendly interface",
+    "Question navigation panel",
+    "Mark questions for review",
+    "Real-time countdown timer",
+    "Instant submission after completion"
+  ],
+  "agreementText": "I have read and understood all the instructions.",
+  "startExam": "Start Examination",
+  "previous": "Previous",
+  "markReview": "Mark for Review",
+  "saveNext": "Save & Next",
+  "submit": "Submit Exam"
+}
